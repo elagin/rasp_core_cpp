@@ -6,6 +6,7 @@ Raspbery core
 Used labrary:
 lcdpcf8574 - 20x4 LCD
 WiringPi ^^^
-mysql-connector-cpp
+mysql-connector-cpp<br>
+sudo apt-get install libmysqlclient-dev
 
 
